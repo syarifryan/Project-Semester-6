@@ -7,6 +7,6 @@ Project Semester 6
 - Muchammad Devan Ferdiansyah (E41191971)
 - Dwi Nurannisa Rahayuningtias (E41192216)
 
-Workshop DevOps
-Workshop Proyek SI
-Workshop Tata Kelola TI
+# Workshop DevOps
+# Workshop Proyek SI
+# Workshop Tata Kelola TI
